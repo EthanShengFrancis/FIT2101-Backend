@@ -1,0 +1,6 @@
+.vscode
+**/__pycache__/
+**/backenv/
+/env/
+/renv/
+/backend/test2.py
